@@ -6,3 +6,4 @@ pridani dalsich
 radku
 this is new line 
 Staged line
+Unsategd line
